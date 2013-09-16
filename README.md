@@ -1,4 +1,4 @@
 elixir-jwt
 ==========
 
-JSON Web Token implementation in Elixir
+A Elixir implementation of [JSON Web Token draft 06](http://openid.net/specs/draft-jones-json-web-token-07.html)
